@@ -16,10 +16,10 @@ The `data` folder contains the datasets used in our experiment, with split into 
 | Field | Description |
 |---|---|
 | `id` | The unique identifier of the tweet (Tweet ID). |
-| `target` | The designated Twitter user (public figure) that this instance is paired with. |
-| `target_detection_label` | The Target Detection tri-class label: `non-abusive`, `targeted-abusive`, or `unidentified-targets`. |
-| `abuse_ type_label` | The Fine-Grained Abuse Type Classification abuse type label (only applicable when `tri_label` is `targeted-abusive`). |
-| `evidence_spans` |  Character-level span position of an abusive phrase in the original text, formatted as `start-end` (e.g., `25-41`). |
+| `target` | The designated Twitter user (named public figure) paired with the post for target-aware abuse annotation. |
+| `target_detection_label` | The Target Detection label indicating whether the post is `non-abusive`, `targeted-abusive`, or contains `unidentified-targets`. |
+| `abuse_type_label` | The Fine-Grained Abuse Type Classification label assigned to `targeted-abusive` instances, covering one of 12 predefined abuse categories. |
+| `evidence_spans` | Character-indexed spans identifying abusive expressions in the original text, formatted as `start-end` (e.g., `25-41`). This field is only available for `targeted-abusive` instances. |
 
 
 
