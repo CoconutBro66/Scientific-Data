@@ -1,5 +1,5 @@
 # A Multilingual Dataset of Social Media Abuse Toward Named Public Figures with Layered Evidence
-This is the official code and dataset for the paper **TAMA: Target-Aware Multilingual Abuse Detection by Cascaded Conditional Multi-Task Learning**.
+This is the official code and dataset for the paper **A Multilingual Dataset of Social Media Abuse Toward Named Public Figures with Layered Evidence**.
 
 
 ## Dataset
