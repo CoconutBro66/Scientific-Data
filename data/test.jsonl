@@ -1,0 +1,778 @@
+{"id": "871825442667450368", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "41-51"}, {"char_pos": "231-236"}]}
+{"id": "1760695026755973273", "target": "@yulia_navalnaya", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "54-65"}, {"char_pos": "67-74"}]}
+{"id": "1570413636878745601", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "84-90"}, {"char_pos": "259-265"}]}
+{"id": "1482881274951864322", "target": "@mariaressa", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "37-47"}]}
+{"id": "1568324801571463168", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "76-98"}, {"char_pos": "143-154"}]}
+{"id": "1567622223464222722", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "156-164"}, {"char_pos": "176-194"}]}
+{"id": "1759649768215589101", "target": "@yulia_navalnaya", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "79-97"}, {"char_pos": "100-114"}, {"char_pos": "151-166"}]}
+{"id": "870606728680923136", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "113-144"}]}
+{"id": "1575601485744054272", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "123-133"}, {"char_pos": "184-199"}, {"char_pos": "209-220"}]}
+{"id": "868679025518145536", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "15-49"}, {"char_pos": "16-50"}, {"char_pos": "17-51"}, {"char_pos": "18-52"}, {"char_pos": "19-53"}, {"char_pos": "20-54"}, {"char_pos": "21-55"}, {"char_pos": "22-56"}, {"char_pos": "23-57"}, {"char_pos": "24-58"}, {"char_pos": "112-139"}]}
+{"id": "857696519289544706", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "22-30"}]}
+{"id": "855053652888834048", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "31-40"}, {"char_pos": "60-66"}]}
+{"id": "862403946933088258", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "13-17"}]}
+{"id": "871089216922546176", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "17-37"}, {"char_pos": "39-42"}]}
+{"id": "1566135848919261186", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "12-25"}]}
+{"id": "1574089673772777472", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "93-96"}, {"char_pos": "104-110"}, {"char_pos": "115-117"}]}
+{"id": "1577340710663102464", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "19-28"}, {"char_pos": "31-36"}]}
+{"id": "1759990220143870108", "target": "@yulia_navalnaya", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "63-85"}]}
+{"id": "1760663390060515410", "target": "@yulia_navalnaya", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "152-165"}, {"char_pos": "281-298"}]}
+{"id": "1294545162664906757", "target": "@mariaressa", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "78-91"}]}
+{"id": "1524377136232022016", "target": "@VRSoloviev", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "27-44"}, {"char_pos": "72-75"}]}
+{"id": "1760022834720714872", "target": "@yulia_navalnaya", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "25-33"}]}
+{"id": "1565372739724234753", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "10-13"}]}
+{"id": "1450605646542360578", "target": "@mariaressa", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "149-153"}]}
+{"id": "859345119669092354", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "97-115"}]}
+{"id": "1577679275632779267", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "25-32"}, {"char_pos": "122-136"}]}
+{"id": "861617778779979778", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "22-45"}]}
+{"id": "1565784493713227777", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "137-143"}]}
+{"id": "1476055665894326273", "target": "@mariaressa", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "41-63"}]}
+{"id": "1273177223256772609", "target": "@mariaressa", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "176-184"}, {"char_pos": "187-196"}, {"char_pos": "203-268"}]}
+{"id": "1573320533953118209", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "46-49"}, {"char_pos": "119-126"}, {"char_pos": "154-170"}]}
+{"id": "870772686162677761", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "68-71"}, {"char_pos": "79-83"}]}
+{"id": "1575252058311168022", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "58-62"}, {"char_pos": "84-89"}]}
+{"id": "860028309731672065", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "13-65"}]}
+{"id": "1525184495359598594", "target": "@VRSoloviev", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "36-51"}, {"char_pos": "145-156"}]}
+{"id": "1526931266725195780", "target": "@VRSoloviev", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "19-40"}, {"char_pos": "43-53"}]}
+{"id": "1576907409096048641", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "92-107"}, {"char_pos": "163-168"}]}
+{"id": "1575896895331139585", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "14-24"}]}
+{"id": "1566501615133138944", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "45-60"}]}
+{"id": "871281484790980608", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "129-137"}]}
+{"id": "1575558992708792321", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "29-31"}]}
+{"id": "1301386097184763904", "target": "@mariaressa", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "116-137"}]}
+{"id": "857734348556165122", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "38-57"}]}
+{"id": "1759988026241864153", "target": "@yulia_navalnaya", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "165-197"}]}
+{"id": "1469598627177844744", "target": "@mariaressa", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "47-55"}]}
+{"id": "1566026696888930305", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "118-130"}]}
+{"id": "1575089667313381376", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "38-73"}]}
+{"id": "1574518166335602688", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "33-50"}, {"char_pos": "71-84"}]}
+{"id": "1272411626449199104", "target": "@mariaressa", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "27-53"}]}
+{"id": "1576188902850719745", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "46-61"}]}
+{"id": "871335008270786562", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "122-127"}]}
+{"id": "1567904228131147778", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "49-51"}, {"char_pos": "122-140"}]}
+{"id": "871676729349160960", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "31-34"}, {"char_pos": "36-39"}]}
+{"id": "1576941769773940737", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "82-87"}, {"char_pos": "149-154"}]}
+{"id": "870004447543537670", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "74-92"}, {"char_pos": "95-137"}]}
+{"id": "1259132049660633088", "target": "@mariaressa", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "82-104"}, {"char_pos": "109-137"}]}
+{"id": "860644218380963843", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "29-38"}]}
+{"id": "1509107459969138695", "target": "@mariaressa", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "86-121"}, {"char_pos": "245-266"}]}
+{"id": "1447779039352029184", "target": "@mariaressa", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "26-82"}, {"char_pos": "100-134"}, {"char_pos": "193-209"}]}
+{"id": "869310326029897729", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "54-58"}]}
+{"id": "1567654456854020097", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "69-79"}, {"char_pos": "87-110"}]}
+{"id": "1759960855976747023", "target": "@yulia_navalnaya", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "217-232"}]}
+{"id": "866709712078852096", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "26-33"}]}
+{"id": "1477229299585339393", "target": "@mariaressa", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "25-45"}]}
+{"id": "1760011002366620043", "target": "@yulia_navalnaya", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "25-32"}]}
+{"id": "868179409630613505", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "68-80"}]}
+{"id": "1761314289191682162", "target": "@yulia_navalnaya", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "96-131"}, {"char_pos": "185-211"}]}
+{"id": "1576611940889407488", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "31-49"}, {"char_pos": "32-50"}, {"char_pos": "33-51"}, {"char_pos": "34-52"}, {"char_pos": "85-87"}]}
+{"id": "1566927572121911296", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "45-48"}, {"char_pos": "83-86"}, {"char_pos": "119-141"}]}
+{"id": "1566493115485241345", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "96-128"}, {"char_pos": "230-257"}]}
+{"id": "1567582961922342912", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "37-54"}, {"char_pos": "127-143"}]}
+{"id": "1446585042197565441", "target": "@mariaressa", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "42-49"}, {"char_pos": "112-119"}]}
+{"id": "1665066249951297536", "target": "@VRSoloviev", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "106-131"}, {"char_pos": "167-187"}]}
+{"id": "1575531444826476554", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "36-85"}]}
+{"id": "861618745348943872", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "42-52"}]}
+{"id": "1568265764725035008", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "25-31"}, {"char_pos": "118-131"}, {"char_pos": "166-179"}]}
+{"id": "1567861272611274753", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "46-51"}, {"char_pos": "111-122"}]}
+{"id": "871896557355884544", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "39-54"}]}
+{"id": "870053091781070848", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "63-74"}, {"char_pos": "274-289"}]}
+{"id": "1573328175387508737", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "248-285"}]}
+{"id": "1573008092169904132", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "25-32"}]}
+{"id": "1577587697295712257", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "37-71"}]}
+{"id": "1567786452632608770", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "10-30"}, {"char_pos": "104-121"}]}
+{"id": "865967035456643073", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "13-19"}, {"char_pos": "43-65"}]}
+{"id": "1575178269556879360", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "54-71"}]}
+{"id": "1273536401208938497", "target": "@mariaressa", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "44-60"}, {"char_pos": "74-113"}]}
+{"id": "1567206773819424774", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "40-50"}, {"char_pos": "242-248"}]}
+{"id": "1566760490272964608", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "33-38"}]}
+{"id": "868223957731872774", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "17-59"}, {"char_pos": "71-83"}, {"char_pos": "114-127"}]}
+{"id": "866712264908439552", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "32-66"}]}
+{"id": "1205073324478365698", "target": "@mariaressa", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "38-77"}, {"char_pos": "80-109"}]}
+{"id": "1469941632850337795", "target": "@mariaressa", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "154-166"}, {"char_pos": "225-246"}]}
+{"id": "1299419370427424770", "target": "@mariaressa", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "61-81"}]}
+{"id": "867702940542398464", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "35-51"}]}
+{"id": "1575779204498849792", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "30-34"}, {"char_pos": "202-209"}]}
+{"id": "860193085267087362", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "55-64"}, {"char_pos": "77-80"}]}
+{"id": "869313478506536962", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "20-38"}, {"char_pos": "128-135"}]}
+{"id": "870584899828412416", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "30-43"}]}
+{"id": "1566772719340998657", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "17-22"}]}
+{"id": "1567242566612967425", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "46-69"}]}
+{"id": "1566816915078643716", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "12-26"}]}
+{"id": "1459043174102417412", "target": "@mariaressa", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "105-130"}]}
+{"id": "869134693232500736", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "attacks_on_credibility", "evidence_spans": [{"char_pos": "18-35"}]}
+{"id": "1760679864414417355", "target": "@yulia_navalnaya", "target_detection_label": "targeted-abusive", "abuse_ type_label": "death_threat", "evidence_spans": [{"char_pos": "187-204"}]}
+{"id": "1206114473963966464", "target": "@mariaressa", "target_detection_label": "targeted-abusive", "abuse_ type_label": "death_threat", "evidence_spans": [{"char_pos": "0-50"}, {"char_pos": "52-103"}]}
+{"id": "1673801089903099904", "target": "@VRSoloviev", "target_detection_label": "targeted-abusive", "abuse_ type_label": "death_threat", "evidence_spans": [{"char_pos": "24-36"}]}
+{"id": "1509204150910812162", "target": "@mariaressa", "target_detection_label": "targeted-abusive", "abuse_ type_label": "death_threat", "evidence_spans": [{"char_pos": "30-43"}, {"char_pos": "257-267"}]}
+{"id": "1524795437022167040", "target": "@VRSoloviev", "target_detection_label": "targeted-abusive", "abuse_ type_label": "death_threat", "evidence_spans": [{"char_pos": "43-59"}]}
+{"id": "1760730301272313975", "target": "@yulia_navalnaya", "target_detection_label": "targeted-abusive", "abuse_ type_label": "death_threat", "evidence_spans": [{"char_pos": "26-34"}]}
+{"id": "1761267742462689575", "target": "@yulia_navalnaya", "target_detection_label": "targeted-abusive", "abuse_ type_label": "death_threat", "evidence_spans": [{"char_pos": "26-49"}]}
+{"id": "1529749032205180928", "target": "@VRSoloviev", "target_detection_label": "targeted-abusive", "abuse_ type_label": "death_threat", "evidence_spans": [{"char_pos": "75-95"}]}
+{"id": "1676473003687702528", "target": "@VRSoloviev", "target_detection_label": "targeted-abusive", "abuse_ type_label": "death_threat", "evidence_spans": [{"char_pos": "66-80"}, {"char_pos": "41-64"}]}
+{"id": "1673897156195885056", "target": "@VRSoloviev", "target_detection_label": "targeted-abusive", "abuse_ type_label": "death_threat", "evidence_spans": [{"char_pos": "27-39"}]}
+{"id": "1761346535890071970", "target": "@yulia_navalnaya", "target_detection_label": "targeted-abusive", "abuse_ type_label": "death_threat", "evidence_spans": [{"char_pos": "39-54"}]}
+{"id": "1565263751900794882", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "death_threat", "evidence_spans": [{"char_pos": "49-57"}]}
+{"id": "1760923445448122508", "target": "@yulia_navalnaya", "target_detection_label": "targeted-abusive", "abuse_ type_label": "death_threat", "evidence_spans": [{"char_pos": "79-112"}]}
+{"id": "1760706910255264035", "target": "@yulia_navalnaya", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "28-32"}]}
+{"id": "866792061428748288", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "70-81"}]}
+{"id": "871007154056167425", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "13-16"}]}
+{"id": "1664916866765078532", "target": "@VRSoloviev", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "15-20"}]}
+{"id": "1760031791614689526", "target": "@yulia_navalnaya", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "31-50"}]}
+{"id": "1273081412195741696", "target": "@mariaressa", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "73-82"}, {"char_pos": "116-135"}]}
+{"id": "1760404202159755381", "target": "@yulia_navalnaya", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "29-42"}, {"char_pos": "111-123"}]}
+{"id": "1276678238291419138", "target": "@mariaressa", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "69-75"}, {"char_pos": "140-147"}, {"char_pos": "155-157"}]}
+{"id": "869916253523247104", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "40-73"}, {"char_pos": "76-83"}]}
+{"id": "1575512795868708866", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "28-48"}]}
+{"id": "1308718006025859072", "target": "@mariaressa", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "22-29"}, {"char_pos": "61-66"}]}
+{"id": "871013215832035329", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "56-71"}, {"char_pos": "83-88"}]}
+{"id": "869232434830856192", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "22-29"}]}
+{"id": "1760680309568516521", "target": "@yulia_navalnaya", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "39-57"}, {"char_pos": "60-71"}]}
+{"id": "1577706239953346560", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "115-136"}]}
+{"id": "1760715293163180454", "target": "@yulia_navalnaya", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "78-87"}]}
+{"id": "1573213401844781057", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "36-49"}]}
+{"id": "869306516221939712", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "27-34"}]}
+{"id": "1269951690217668609", "target": "@mariaressa", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "27-32"}]}
+{"id": "1547947368821039110", "target": "@VRSoloviev", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "17-21"}, {"char_pos": "40-44"}]}
+{"id": "1577614349354557442", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "76-83"}]}
+{"id": "855538901787824129", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "17-28"}, {"char_pos": "41-50"}]}
+{"id": "1576669384525107200", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "40-46"}, {"char_pos": "49-56"}]}
+{"id": "1761091399343051151", "target": "@yulia_navalnaya", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "23-27"}]}
+{"id": "870793456565846016", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "22-26"}]}
+{"id": "1658502210345394177", "target": "@VRSoloviev", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "15-27"}, {"char_pos": "70-75"}]}
+{"id": "1761414019884134616", "target": "@yulia_navalnaya", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "42-46"}]}
+{"id": "859844504190427136", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "13-32"}]}
+{"id": "1760213612797280581", "target": "@yulia_navalnaya", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "74-76"}, {"char_pos": "1-15"}, {"char_pos": "18-32"}, {"char_pos": "34-41"}, {"char_pos": "43-44"}, {"char_pos": "46-54"}, {"char_pos": "56-59"}, {"char_pos": "62-65"}, {"char_pos": "67-71"}, {"char_pos": "74-76"}]}
+{"id": "1572447743758696448", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "18-24"}, {"char_pos": "27-39"}]}
+{"id": "1524614788268974080", "target": "@VRSoloviev", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "69-73"}, {"char_pos": "77-81"}]}
+{"id": "1259310745394704384", "target": "@mariaressa", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "108-139"}]}
+{"id": "859452961243705349", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "52-69"}, {"char_pos": "136-139"}]}
+{"id": "1673947144032591875", "target": "@VRSoloviev", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "59-61"}, {"char_pos": "64-74"}]}
+{"id": "865301155336916992", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "24-35"}]}
+{"id": "1528709213718990850", "target": "@VRSoloviev", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "24-28"}]}
+{"id": "1329724535550091264", "target": "@mariaressa", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "49-55"}]}
+{"id": "857689180914294784", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "15-27"}, {"char_pos": "47-58"}]}
+{"id": "1670747653527818240", "target": "@VRSoloviev", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "29-34"}, {"char_pos": "202-207"}, {"char_pos": "136-151"}, {"char_pos": "169-187"}]}
+{"id": "870000108074610688", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "85-88"}, {"char_pos": "125-132"}]}
+{"id": "1760938526571475131", "target": "@yulia_navalnaya", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "81-99"}, {"char_pos": "117-121"}]}
+{"id": "1527022827962085378", "target": "@VRSoloviev", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "18-36"}]}
+{"id": "865947696292478978", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "139-148"}]}
+{"id": "861634355554394113", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "16-23"}, {"char_pos": "110-117"}]}
+{"id": "1760199233972383962", "target": "@yulia_navalnaya", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "81-100"}]}
+{"id": "1524809278288105474", "target": "@VRSoloviev", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "37-43"}, {"char_pos": "12-34"}]}
+{"id": "866997684766461958", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "35-49"}, {"char_pos": "67-71"}]}
+{"id": "1761356794004148714", "target": "@yulia_navalnaya", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "62-67"}, {"char_pos": "69-93"}]}
+{"id": "1572313073830039552", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "35-44"}]}
+{"id": "1759955464429707384", "target": "@yulia_navalnaya", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "59-64"}]}
+{"id": "1447152974506041345", "target": "@mariaressa", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "27-39"}, {"char_pos": "123-134"}, {"char_pos": "75-81"}]}
+{"id": "865449017651548163", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "13-20"}]}
+{"id": "871397707423899649", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "107-118"}]}
+{"id": "870268178672340992", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "28-41"}, {"char_pos": "67-78"}]}
+{"id": "1759550463626678412", "target": "@yulia_navalnaya", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "33-41"}]}
+{"id": "1577434404359544832", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "10-16"}]}
+{"id": "1672573529601224705", "target": "@VRSoloviev", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "14-23"}]}
+{"id": "865335083108061184", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "94-114"}]}
+{"id": "868532309850456064", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "26-32"}, {"char_pos": "95-99"}]}
+{"id": "1545444298761584642", "target": "@VRSoloviev", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "119-130"}, {"char_pos": "133-140"}, {"char_pos": "144-151"}, {"char_pos": "174-187"}]}
+{"id": "1567845221441880066", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "98-107"}]}
+{"id": "1576307592791367680", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "25-32"}]}
+{"id": "866671259450572801", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "80-90"}]}
+{"id": "1442013888489402368", "target": "@mariaressa", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "34-39"}, {"char_pos": "44-51"}]}
+{"id": "1575184160188088322", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "61-67"}]}
+{"id": "1446826107978719232", "target": "@mariaressa", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "36-42"}, {"char_pos": "46-54"}]}
+{"id": "1454733096075497475", "target": "@mariaressa", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "20-23"}, {"char_pos": "53-58"}]}
+{"id": "871345365022322688", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "68-84"}, {"char_pos": "102-122"}]}
+{"id": "866322601613852672", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "26-36"}]}
+{"id": "1524758717849350144", "target": "@VRSoloviev", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "43-51"}, {"char_pos": "66-76"}]}
+{"id": "1761093710094418011", "target": "@yulia_navalnaya", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "32-41"}, {"char_pos": "33-42"}]}
+{"id": "1760932205419729386", "target": "@yulia_navalnaya", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "42-45"}, {"char_pos": "32-36"}]}
+{"id": "1264493723854843904", "target": "@mariaressa", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "74-77"}, {"char_pos": "191-193"}]}
+{"id": "1547527618722930689", "target": "@VRSoloviev", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "25-42"}, {"char_pos": "225-232"}]}
+{"id": "1281093374712266752", "target": "@mariaressa", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "42-59"}]}
+{"id": "866417831474327553", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "41-44"}]}
+{"id": "871303935532912641", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "64-67"}]}
+{"id": "1761123685216178389", "target": "@yulia_navalnaya", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "49-55"}]}
+{"id": "858638008735739905", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "70-85"}]}
+{"id": "1483771702006128642", "target": "@mariaressa", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "78-91"}]}
+{"id": "1761349557307240784", "target": "@yulia_navalnaya", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "20-27"}]}
+{"id": "1291580335273238530", "target": "@mariaressa", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "12-20"}]}
+{"id": "1658586171604123651", "target": "@VRSoloviev", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "34-40"}, {"char_pos": "35-41"}]}
+{"id": "1559958870134489088", "target": "@VRSoloviev", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "24-35"}, {"char_pos": "68-94"}]}
+{"id": "1761374891507405284", "target": "@yulia_navalnaya", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "202-218"}]}
+{"id": "1567535561409175552", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "15-22"}, {"char_pos": "34-39"}]}
+{"id": "1574527249562456095", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "29-43"}]}
+{"id": "1672616554305843201", "target": "@VRSoloviev", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "16-22"}, {"char_pos": "56-60"}]}
+{"id": "1760280644486152365", "target": "@yulia_navalnaya", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "30-36"}]}
+{"id": "1576860652974800896", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "11-22"}, {"char_pos": "66-73"}]}
+{"id": "1379383449442656257", "target": "@mariaressa", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "45-55"}, {"char_pos": "70-75"}]}
+{"id": "1760959378889347525", "target": "@yulia_navalnaya", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "31-48"}]}
+{"id": "1567212637183696899", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "48-66"}]}
+{"id": "1761033100417507628", "target": "@yulia_navalnaya", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "116-124"}, {"char_pos": "148-157"}]}
+{"id": "1575522950857785344", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "10-29"}]}
+{"id": "867284689702334464", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "77-111"}]}
+{"id": "1672759959820419073", "target": "@VRSoloviev", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "224-227"}, {"char_pos": "233-238"}, {"char_pos": "25-44"}, {"char_pos": "98-117"}, {"char_pos": "483-499"}]}
+{"id": "1272393993477689344", "target": "@mariaressa", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "51-62"}, {"char_pos": "69-79"}]}
+{"id": "867812106703433729", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "50-57"}, {"char_pos": "110-127"}]}
+{"id": "1760689760610255319", "target": "@yulia_navalnaya", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "32-36"}]}
+{"id": "1575209303274704896", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "23-30"}]}
+{"id": "869242369404805121", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "37-45"}, {"char_pos": "83-108"}]}
+{"id": "1276734307956953089", "target": "@mariaressa", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "116-129"}, {"char_pos": "65-103"}]}
+{"id": "1525295973995528194", "target": "@VRSoloviev", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "39-54"}]}
+{"id": "1672557025518034945", "target": "@VRSoloviev", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "37-54"}]}
+{"id": "1446571441193984010", "target": "@mariaressa", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "38-45"}]}
+{"id": "1524395503663857665", "target": "@VRSoloviev", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "112-114"}]}
+{"id": "1293445388536385544", "target": "@mariaressa", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "61-64"}, {"char_pos": "137-141"}]}
+{"id": "1567390063108947968", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "17-28"}, {"char_pos": "30-47"}, {"char_pos": "17-20"}, {"char_pos": "30-33"}]}
+{"id": "1760072037110792596", "target": "@yulia_navalnaya", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "37-55"}]}
+{"id": "1525079145520189441", "target": "@VRSoloviev", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "12-16"}]}
+{"id": "862073970979426304", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "13-39"}, {"char_pos": "65-76"}]}
+{"id": "1294035561942900736", "target": "@mariaressa", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "89-92"}, {"char_pos": "248-251"}, {"char_pos": "281-284"}, {"char_pos": "33-39"}, {"char_pos": "96-102"}, {"char_pos": "179-185"}, {"char_pos": "26-31"}]}
+{"id": "1524765933570609157", "target": "@VRSoloviev", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "37-49"}]}
+{"id": "862408055522308097", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "59-87"}, {"char_pos": "91-98"}]}
+{"id": "1761050363325506040", "target": "@yulia_navalnaya", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "55-65"}]}
+{"id": "1759544494532272422", "target": "@yulia_navalnaya", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "70-78"}]}
+{"id": "1566762082132951040", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "10-16"}, {"char_pos": "22-28"}]}
+{"id": "1577671972376526848", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "55-62"}]}
+{"id": "1533331704194244641", "target": "@VRSoloviev", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "169-175"}]}
+{"id": "1576481049135132673", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "78-86"}, {"char_pos": "194-207"}]}
+{"id": "1261455478338449408", "target": "@mariaressa", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "27-32"}, {"char_pos": "97-113"}]}
+{"id": "1573671559813816325", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "50-68"}]}
+{"id": "865948063160045568", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "13-27"}]}
+{"id": "1575221595903520768", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "52-63"}]}
+{"id": "1759740665242517916", "target": "@yulia_navalnaya", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "53-57"}]}
+{"id": "867829376758554624", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "129-146"}]}
+{"id": "867343592356012032", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "41-51"}]}
+{"id": "1574558601112322062", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "47-69"}]}
+{"id": "1643998179208343554", "target": "@VRSoloviev", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "25-41"}]}
+{"id": "1576226479540965377", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "95-99"}, {"char_pos": "70-81"}, {"char_pos": "84-92"}]}
+{"id": "1659116622064361474", "target": "@VRSoloviev", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "25-28"}]}
+{"id": "1539010992012771329", "target": "@VRSoloviev", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "15-18"}]}
+{"id": "1577717802693464064", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "46-51"}]}
+{"id": "1576194377906814976", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "53-60"}]}
+{"id": "1547954452023324674", "target": "@VRSoloviev", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "12-19"}]}
+{"id": "1530709861171924992", "target": "@VRSoloviev", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "12-28"}, {"char_pos": "51-73"}]}
+{"id": "1524818275905019904", "target": "@VRSoloviev", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "33-38"}]}
+{"id": "869991299025260544", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "22-43"}]}
+{"id": "1524484667650580491", "target": "@VRSoloviev", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "12-24"}, {"char_pos": "28-50"}, {"char_pos": "54-68"}]}
+{"id": "1760643768502391257", "target": "@yulia_navalnaya", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "104-113"}, {"char_pos": "116-122"}]}
+{"id": "1760726776983212415", "target": "@yulia_navalnaya", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "23-30"}, {"char_pos": "207-216"}]}
+{"id": "1760733424388853820", "target": "@yulia_navalnaya", "target_detection_label": "targeted-abusive", "abuse_ type_label": "general", "evidence_spans": [{"char_pos": "47-51"}, {"char_pos": "69-73"}]}
+{"id": "864526713434329088", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "misogynistic", "evidence_spans": [{"char_pos": "17-28"}]}
+{"id": "860983708458921986", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "misogynistic", "evidence_spans": [{"char_pos": "64-68"}]}
+{"id": "862652786470682625", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "misogynistic", "evidence_spans": [{"char_pos": "18-21"}]}
+{"id": "1562963444348833795", "target": "@VRSoloviev", "target_detection_label": "targeted-abusive", "abuse_ type_label": "misogynistic", "evidence_spans": [{"char_pos": "24-37"}, {"char_pos": "66-81"}]}
+{"id": "868241705706938369", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "misogynistic", "evidence_spans": [{"char_pos": "53-57"}]}
+{"id": "868804353083269120", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "misogynistic", "evidence_spans": [{"char_pos": "33-36"}]}
+{"id": "857333702472470528", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "misogynistic", "evidence_spans": [{"char_pos": "21-42"}, {"char_pos": "71-94"}]}
+{"id": "871404182703665152", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "misogynistic", "evidence_spans": [{"char_pos": "21-37"}, {"char_pos": "51-69"}, {"char_pos": "72-81"}]}
+{"id": "1447710582325403648", "target": "@mariaressa", "target_detection_label": "targeted-abusive", "abuse_ type_label": "misogynistic", "evidence_spans": [{"char_pos": "103-106"}, {"char_pos": "103-118"}, {"char_pos": "135-143"}, {"char_pos": "146-156"}]}
+{"id": "867012519352782848", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "misogynistic", "evidence_spans": [{"char_pos": "53-61"}]}
+{"id": "1577334322188763138", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "misogynistic", "evidence_spans": [{"char_pos": "30-39"}]}
+{"id": "1761127492658549049", "target": "@yulia_navalnaya", "target_detection_label": "targeted-abusive", "abuse_ type_label": "misogynistic", "evidence_spans": [{"char_pos": "1-15"}, {"char_pos": "18-32"}, {"char_pos": "1-15"}, {"char_pos": "18-32"}]}
+{"id": "866658739587305472", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "misogynistic", "evidence_spans": [{"char_pos": "37-41"}]}
+{"id": "864235312452689920", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "misogynistic", "evidence_spans": [{"char_pos": "13-33"}, {"char_pos": "36-56"}, {"char_pos": "59-68"}]}
+{"id": "1577387351843622912", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "physical_harm", "evidence_spans": [{"char_pos": "41-53"}]}
+{"id": "1340431484369268736", "target": "@mariaressa", "target_detection_label": "targeted-abusive", "abuse_ type_label": "physical_harm", "evidence_spans": [{"char_pos": "85-100"}, {"char_pos": "180-202"}]}
+{"id": "1276682605895680001", "target": "@mariaressa", "target_detection_label": "targeted-abusive", "abuse_ type_label": "physical_harm", "evidence_spans": [{"char_pos": "99-104"}, {"char_pos": "123-147"}]}
+{"id": "1672499635615588353", "target": "@VRSoloviev", "target_detection_label": "targeted-abusive", "abuse_ type_label": "sexual_explicit", "evidence_spans": [{"char_pos": "31-36"}]}
+{"id": "1532114824502644736", "target": "@VRSoloviev", "target_detection_label": "targeted-abusive", "abuse_ type_label": "sexual_explicit", "evidence_spans": [{"char_pos": "1-10"}, {"char_pos": "46-50"}, {"char_pos": "54-54"}, {"char_pos": "56-57"}, {"char_pos": "59-68"}]}
+{"id": "1761287113784389981", "target": "@yulia_navalnaya", "target_detection_label": "targeted-abusive", "abuse_ type_label": "sexual_explicit", "evidence_spans": [{"char_pos": "1-15"}]}
+{"id": "861566672024592385", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "sexual_explicit", "evidence_spans": [{"char_pos": "13-22"}]}
+{"id": "1528086220756115456", "target": "@VRSoloviev", "target_detection_label": "targeted-abusive", "abuse_ type_label": "sexual_explicit", "evidence_spans": [{"char_pos": "19-22"}, {"char_pos": "1-10"}]}
+{"id": "1530818085816569856", "target": "@VRSoloviev", "target_detection_label": "targeted-abusive", "abuse_ type_label": "sexual_explicit", "evidence_spans": [{"char_pos": "43-45"}]}
+{"id": "1760696821993586921", "target": "@yulia_navalnaya", "target_detection_label": "targeted-abusive", "abuse_ type_label": "sexual_explicit", "evidence_spans": [{"char_pos": "67-69"}]}
+{"id": "1759940771694727345", "target": "@yulia_navalnaya", "target_detection_label": "targeted-abusive", "abuse_ type_label": "sexual_explicit", "evidence_spans": [{"char_pos": "49-61"}]}
+{"id": "1278263403035811840", "target": "@mariaressa", "target_detection_label": "targeted-abusive", "abuse_ type_label": "sexual_explicit", "evidence_spans": [{"char_pos": "118-137"}]}
+{"id": "863883453464489985", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "sexual_explicit", "evidence_spans": [{"char_pos": "58-69"}]}
+{"id": "1574657115242651648", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "sexual_explicit", "evidence_spans": [{"char_pos": "47-67"}]}
+{"id": "869674884271677441", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "sexual_explicit", "evidence_spans": [{"char_pos": "41-67"}]}
+{"id": "1258031115383697415", "target": "@mariaressa", "target_detection_label": "targeted-abusive", "abuse_ type_label": "sexual_explicit", "evidence_spans": [{"char_pos": "284-291"}, {"char_pos": "259-279"}]}
+{"id": "1527003896480243712", "target": "@VRSoloviev", "target_detection_label": "targeted-abusive", "abuse_ type_label": "homophobic", "evidence_spans": [{"char_pos": "57-66"}]}
+{"id": "1576543152760311808", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "homophobic", "evidence_spans": [{"char_pos": "36-70"}]}
+{"id": "1305102687009153026", "target": "@mariaressa", "target_detection_label": "targeted-abusive", "abuse_ type_label": "homophobic", "evidence_spans": [{"char_pos": "222-226"}, {"char_pos": "150-182"}]}
+{"id": "1465985832293044225", "target": "@mariaressa", "target_detection_label": "targeted-abusive", "abuse_ type_label": "homophobic", "evidence_spans": [{"char_pos": "98-103"}, {"char_pos": "114-131"}]}
+{"id": "1572589074413948931", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "political_sectarian", "evidence_spans": [{"char_pos": "35-58"}, {"char_pos": "125-172"}, {"char_pos": "202-242"}]}
+{"id": "1575950381653184513", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "political_sectarian", "evidence_spans": [{"char_pos": "36-79"}]}
+{"id": "1567645546696826881", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "political_sectarian", "evidence_spans": [{"char_pos": "44-88"}, {"char_pos": "129-156"}, {"char_pos": "159-171"}]}
+{"id": "868856284342308865", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "political_sectarian", "evidence_spans": [{"char_pos": "28-65"}, {"char_pos": "73-99"}]}
+{"id": "865904668270047234", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "political_sectarian", "evidence_spans": [{"char_pos": "59-93"}, {"char_pos": "60-94"}, {"char_pos": "61-95"}, {"char_pos": "62-96"}, {"char_pos": "63-97"}, {"char_pos": "64-98"}, {"char_pos": "65-99"}, {"char_pos": "66-100"}, {"char_pos": "67-101"}]}
+{"id": "870383596267294721", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "political_sectarian", "evidence_spans": [{"char_pos": "129-149"}]}
+{"id": "1759942347981279257", "target": "@yulia_navalnaya", "target_detection_label": "targeted-abusive", "abuse_ type_label": "political_sectarian", "evidence_spans": [{"char_pos": "43-52"}, {"char_pos": "68-92"}]}
+{"id": "868184215132700673", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "political_sectarian", "evidence_spans": [{"char_pos": "30-38"}, {"char_pos": "63-75"}, {"char_pos": "79-92"}]}
+{"id": "863791670734749696", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "political_sectarian", "evidence_spans": [{"char_pos": "106-122"}]}
+{"id": "1567589212727246849", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "political_sectarian", "evidence_spans": [{"char_pos": "147-181"}]}
+{"id": "1567761007526789120", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "racist", "evidence_spans": [{"char_pos": "147-176"}, {"char_pos": "191-217"}]}
+{"id": "1664626073953263620", "target": "@VRSoloviev", "target_detection_label": "targeted-abusive", "abuse_ type_label": "racist", "evidence_spans": [{"char_pos": "32-46"}, {"char_pos": "111-136"}, {"char_pos": "264-295"}]}
+{"id": "1760118911775678655", "target": "@yulia_navalnaya", "target_detection_label": "targeted-abusive", "abuse_ type_label": "racist", "evidence_spans": [{"char_pos": "26-43"}, {"char_pos": "96-137"}]}
+{"id": "1525865560097050628", "target": "@VRSoloviev", "target_detection_label": "targeted-abusive", "abuse_ type_label": "racist", "evidence_spans": [{"char_pos": "33-50"}]}
+{"id": "1574766563428864000", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "racist", "evidence_spans": [{"char_pos": "42-51"}]}
+{"id": "1761527278175916378", "target": "@yulia_navalnaya", "target_detection_label": "targeted-abusive", "abuse_ type_label": "racist", "evidence_spans": [{"char_pos": "53-68"}]}
+{"id": "1759657144121532423", "target": "@yulia_navalnaya", "target_detection_label": "targeted-abusive", "abuse_ type_label": "racist", "evidence_spans": [{"char_pos": "31-49"}, {"char_pos": "92-96"}, {"char_pos": "99-106"}]}
+{"id": "1527160484675428352", "target": "@VRSoloviev", "target_detection_label": "targeted-abusive", "abuse_ type_label": "racist", "evidence_spans": [{"char_pos": "31-49"}]}
+{"id": "1547535165857185792", "target": "@VRSoloviev", "target_detection_label": "targeted-abusive", "abuse_ type_label": "racist", "evidence_spans": [{"char_pos": "15-49"}, {"char_pos": "123-150"}, {"char_pos": "153-170"}]}
+{"id": "1573362101200252929", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "racist", "evidence_spans": [{"char_pos": "21-45"}]}
+{"id": "1530605098119966722", "target": "@VRSoloviev", "target_detection_label": "targeted-abusive", "abuse_ type_label": "racist", "evidence_spans": [{"char_pos": "12-44"}]}
+{"id": "862953457560453121", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "racist", "evidence_spans": [{"char_pos": "127-153"}]}
+{"id": "1760048125538890147", "target": "@yulia_navalnaya", "target_detection_label": "targeted-abusive", "abuse_ type_label": "racist", "evidence_spans": [{"char_pos": "27-36"}]}
+{"id": "1759648516337525024", "target": "@yulia_navalnaya", "target_detection_label": "targeted-abusive", "abuse_ type_label": "radiation_of_threats", "evidence_spans": [{"char_pos": "83-89"}, {"char_pos": "91-97"}, {"char_pos": "99-106"}, {"char_pos": "130-168"}, {"char_pos": "262-290"}, {"char_pos": "296-320"}]}
+{"id": "1762730781011505571", "target": "@yulia_navalnaya", "target_detection_label": "targeted-abusive", "abuse_ type_label": "radiation_of_threats", "evidence_spans": [{"char_pos": "170-223"}, {"char_pos": "258-298"}]}
+{"id": "1760769854271856686", "target": "@yulia_navalnaya", "target_detection_label": "targeted-abusive", "abuse_ type_label": "radiation_of_threats", "evidence_spans": [{"char_pos": "33-53"}]}
+{"id": "868197519951581188", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "religious", "evidence_spans": [{"char_pos": "67-106"}]}
+{"id": "1567448781175627777", "target": "@trussliz", "target_detection_label": "targeted-abusive", "abuse_ type_label": "religious", "evidence_spans": [{"char_pos": "9-102"}]}
+{"id": "871519450532421632", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "religious", "evidence_spans": [{"char_pos": "35-72"}, {"char_pos": "113-126"}]}
+{"id": "1527636246297825280", "target": "@VRSoloviev", "target_detection_label": "targeted-abusive", "abuse_ type_label": "sexual_assault", "evidence_spans": [{"char_pos": "12-27"}, {"char_pos": "29-40"}]}
+{"id": "1625715503590244355", "target": "@VRSoloviev", "target_detection_label": "targeted-abusive", "abuse_ type_label": "sexual_assault", "evidence_spans": [{"char_pos": "33-50"}, {"char_pos": "73-77"}]}
+{"id": "862196995661983744", "target": "@theresa_may", "target_detection_label": "targeted-abusive", "abuse_ type_label": "sexual_assault", "evidence_spans": [{"char_pos": "104-109"}]}
+{"id": "1760616885970772236", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "860423644429897729", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1759968267223839229", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "870746519279980546", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "859720385033621504", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1533173616539484162", "target": "@VRSoloviev", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1576651579754971137", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1470951170290040833", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1524402222020317191", "target": "@VRSoloviev", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1358062170194419714", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1450620631322660872", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1762126056847253937", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1259117454627725314", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "863323552510091264", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1760964699544227974", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "871029088533831680", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1567613179169062913", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1761098313170890975", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "854987825506377728", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1760621647432745181", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1368891749066768384", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1653456901621858318", "target": "@VRSoloviev", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1565222295697776642", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "864248091213430785", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1671746730818170880", "target": "@VRSoloviev", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "855140782390603780", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "869577777523109888", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1258033840674627585", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1760156702698066272", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1761586581499003127", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1272439906007162885", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1577661238493986818", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1567504396761669632", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1273160960451149826", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1276833823838306309", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1573913788272807936", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1574080593972940800", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1446423186862755851", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1761119781535744133", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1676138772327460865", "target": "@VRSoloviev", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1529730697732272128", "target": "@VRSoloviev", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1673194844800286720", "target": "@VRSoloviev", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "864897661002022912", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1272479585016242176", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "871543733203939329", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1761024029408776620", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "869575244440326144", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "867038961553879040", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1469790195566641153", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1760768906023620782", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1524756496197767168", "target": "@VRSoloviev", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1759534627461456079", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1446463801642176514", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "870751242674475009", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "866239584765706240", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1217586858785492993", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1575827893699198976", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1450867602398400518", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1576253370850893824", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "865193587520270336", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1759792291101766096", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1511915973133357059", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1529146062996398081", "target": "@VRSoloviev", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1760671447243219278", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1570005495712288770", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1330361472564617216", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1424893958027579393", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1577697871826132997", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1567488630742024192", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1575233728401780736", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "866307570474110976", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1566763087356739584", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1761021192167739499", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1498693619762487299", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1566898567393992705", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "858304334794280964", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1466136559011315712", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1271334782882861056", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1576862913158991873", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1355629893405474816", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1573205849509863425", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "869928718411735040", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "866616961052151808", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1525128095359029250", "target": "@VRSoloviev", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1572968707386904577", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1672563145452187650", "target": "@VRSoloviev", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "855432725683109888", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1569014186801336321", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "861275176343937025", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1388048067367157760", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1760941492833489016", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1572250180136894472", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1759936053878682042", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1576192151217573888", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "871727324823269377", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1272847791115497472", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "862695266536869888", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "870545141215498241", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1567809035675598848", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1466441096301617164", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "870944520611012608", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1759940502193840254", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1760034578511872191", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1760833404709331196", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1446412316333903881", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "863166533463416832", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1576512167498878976", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1761086285412790735", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1272489223925518336", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1759991329088479696", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1574063837401300992", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "870266865410600960", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "855129494499340288", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1292849446481547264", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1573624532988035072", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1759534474033811590", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1347783839725322241", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1760731382710718489", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1759677424508567939", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1285465002636386304", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1272723682054426624", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1567584832443514882", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1759972118224060565", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1594385468304547842", "target": "@VRSoloviev", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1576499746260123649", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1446403271342579723", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1368628414983385091", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1226878989840420867", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1670791966882250753", "target": "@VRSoloviev", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1575949625638338560", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1760771979299209504", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "856814167831048193", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1530964565017739270", "target": "@VRSoloviev", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1576191609410326529", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1760726152719782053", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1566754735289425920", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1264413475788296193", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1577389859320352769", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1566722003993825281", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "866193785218367488", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "865489600029925376", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1760068009861734644", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "870672834527453184", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "862497685261168640", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1574692500551258112", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "861874751173791745", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1760199775251554690", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1759941332406059111", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "871332803539083266", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "865875738863558656", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1566813121100107785", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1533770859923529729", "target": "@VRSoloviev", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1272785267980713989", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1760724650223653133", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "866735214621601792", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1576131041709813760", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1574501797808554028", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1575222427130671104", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1565336202647334912", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1675032321664090113", "target": "@VRSoloviev", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1759935183845838944", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1659566589144858626", "target": "@VRSoloviev", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1759626195493102012", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1625133923477991425", "target": "@VRSoloviev", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1761008549642080288", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1295249479239532545", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1567805603518496771", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "870010110432628736", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1576984853861789696", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1760751173324177821", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1573239542148403202", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1760327319938269358", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1760666634757280152", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1759938675381575716", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1577649505041874946", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "869577075383992320", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1534090603453202438", "target": "@VRSoloviev", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1575194932901314560", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "861607432614801409", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1469307436196634632", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1676285163032944647", "target": "@VRSoloviev", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1761081646617419945", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1661828780040626176", "target": "@VRSoloviev", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1567241446243041280", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1301692449497071616", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1576572731339833345", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "856954336517160960", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "871389801345421312", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1577395303887605778", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "869273025346248709", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1575187573651144706", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1567815096281219072", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1320497693597159424", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1570037688622891013", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "855529932977524736", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1568392585244188673", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1759737143063101496", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1533180506031935488", "target": "@VRSoloviev", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1759615135558021483", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1760635427772354889", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "865896043531177984", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1565796358136729602", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1453706085521571846", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "869236399832170497", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1285735147577520130", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1760695300786671995", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1576265403608993792", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1350975283281727493", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1572893261253021697", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1759667203836727616", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "866970886691315712", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1266997602832093185", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1759545259996905826", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1760862496083096006", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1547939336976445443", "target": "@VRSoloviev", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1676286515922477064", "target": "@VRSoloviev", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1759961104237642134", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1300084028251357189", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1259136520943853568", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1663458488725454850", "target": "@VRSoloviev", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1571524614144000000", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1760005439255916844", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1566758146785398785", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1760686854322700499", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1760194254339440927", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "870582641447383041", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1761120540360688123", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "871946089984909312", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "867975055518478336", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1760731573857734881", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1759539384402022448", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "870023016444547072", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1264839629250813952", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1568254564381368321", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1577354865159946240", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "869170203283927040", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1567257659123834890", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1760670216730870030", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1567472325326503938", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1301215454447448066", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1674763337647763457", "target": "@VRSoloviev", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "856514920795570176", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1547984921968328707", "target": "@VRSoloviev", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "862307720682246146", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1674068733378142216", "target": "@VRSoloviev", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1450300006074765316", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1575528533052592128", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1472220344169734146", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "871533904100020224", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1577674174264496130", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1575195274590400512", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1577630134248656896", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1759964137214669232", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "865868729795698688", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1572203850857152519", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1574730556759326720", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1667268005875576832", "target": "@VRSoloviev", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1527730083456221187", "target": "@VRSoloviev", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "862286459449081856", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "869307040681865217", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1625133958789836805", "target": "@VRSoloviev", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1526934773498880001", "target": "@VRSoloviev", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1487477122876809217", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1760694991444115618", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "856610785350615040", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1329710227248222208", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1527498203741962260", "target": "@VRSoloviev", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1759937813133328757", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "868188244822937605", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "855337493037629440", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1577348077182238720", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1202020719216844800", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1759953228592972087", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "870278480876929025", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "860141769522114560", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1676286515922477064", "target": "@VRSoloviev", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1576332419598151680", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1759582319873077563", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1662770632092790790", "target": "@VRSoloviev", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1433795709124235275", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "859797162871459840", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1759955413326336021", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1759940197129818246", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1567069352075083782", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "870722336235892738", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1660827175887544321", "target": "@VRSoloviev", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1625804143364554754", "target": "@VRSoloviev", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1272410388068532225", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1530567425367875584", "target": "@VRSoloviev", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1759946085429105145", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1567472112096395265", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "871055095059935233", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1760786809435332899", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1759568247572107636", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1576387508765888513", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1524759968422977539", "target": "@VRSoloviev", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1759713128563057146", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1446409433064493057", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1567244523872329731", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1294180726191996928", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1575092624142180352", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1759575097281569127", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1577658685295321088", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1660278955369193473", "target": "@VRSoloviev", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1659858239201083395", "target": "@VRSoloviev", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1670603213400096768", "target": "@VRSoloviev", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1566802812654292994", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1575558513580945408", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1527403083994636289", "target": "@VRSoloviev", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "869319820805894157", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1577361851154722816", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1577374200867696640", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1575911799588720640", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1449298695652982785", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1567204213976928256", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "854684952474124288", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1446552306674241539", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1233209616458108928", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "860882249977344000", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1760683626608631946", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1760672092700442965", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1759966371729785057", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1760004874794668123", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1760677971017470394", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1760620462571184480", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1524804619935043584", "target": "@VRSoloviev", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "869885909084368900", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "871302147165519872", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1759969469999255578", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1479610478464679937", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1660259556876771329", "target": "@VRSoloviev", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1451254458562740224", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1760563202423730244", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1566825193078652928", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "859671817400799232", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "855285699473362948", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1567555704600272899", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1760017958883991588", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "857568177873707009", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "857241627794001920", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1760042136462934116", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "871936704667672576", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1760089260298752017", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1527547291267223557", "target": "@VRSoloviev", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "871697741293998081", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1761024467889696922", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1527635819581911040", "target": "@VRSoloviev", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "869096783066091520", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1671577364952752137", "target": "@VRSoloviev", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "870017621034283008", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "865658187218681856", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1577260110501453824", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1570458640154238976", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "868777551187103748", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1577662330170736647", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "869297137577754624", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "870584364693938177", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1567467147827314688", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "858664922573664256", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1760009000215818393", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1576226954206121985", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1568099043393572865", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "870398612458569729", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1552209365024792577", "target": "@VRSoloviev", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1532094946496368640", "target": "@VRSoloviev", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1572319512887951360", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1760677390190264336", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1567554878750195713", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "858609434574155777", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1759590585927614513", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "871869978328412160", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1577349060280958991", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1545010168890621955", "target": "@VRSoloviev", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "861141496166273024", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "854707319967449090", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1271763872802693120", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1576132913531301888", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "870954960791494656", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "860046685648678912", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1312778731069599744", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1672743948505464832", "target": "@VRSoloviev", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1759575299094655185", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1760450018484339117", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "868868309286096896", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1281196404648468481", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1663952165923110912", "target": "@VRSoloviev", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1760641807300374722", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "869614584625328128", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "871487971844907008", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1647818150132457473", "target": "@VRSoloviev", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1577671592460558339", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1760753344883093989", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1760943872887124171", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1575416954424377345", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "869212891228098560", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "869288612826939393", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1572607050265538563", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "865872360397836288", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "861885116423000064", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1762426300138975504", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1319598249766834176", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "867701957586300928", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1447131610231365637", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1577712689488564231", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1447053288457785346", "target": "@mariaressa", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1566454872802824192", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1760731556388425939", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1760756832438550725", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "861368951200198656", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1760258211003666625", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1759631209460638081", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1760135879459578155", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "870703459082711042", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1760017595963670933", "target": "@yulia_navalnaya", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1572723214446637058", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1568302351118737410", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1567046672387121152", "target": "@trussliz", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "866907971481161728", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "865931082390175744", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "868546343182184449", "target": "@theresa_may", "target_detection_label": "non-abusive", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1761078417733132679", "target": "@yulia_navalnaya", "target_detection_label": "unidentified-targets", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1573952247792295936", "target": "@trussliz", "target_detection_label": "unidentified-targets", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1404841268702695426", "target": "@mariaressa", "target_detection_label": "unidentified-targets", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1759938527800816101", "target": "@yulia_navalnaya", "target_detection_label": "unidentified-targets", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1759950450801930457", "target": "@yulia_navalnaya", "target_detection_label": "unidentified-targets", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1759964871217590505", "target": "@yulia_navalnaya", "target_detection_label": "unidentified-targets", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1759716522082075030", "target": "@yulia_navalnaya", "target_detection_label": "unidentified-targets", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1524955890197086223", "target": "@VRSoloviev", "target_detection_label": "unidentified-targets", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1760077114412339386", "target": "@yulia_navalnaya", "target_detection_label": "unidentified-targets", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "866752773840400384", "target": "@theresa_may", "target_detection_label": "unidentified-targets", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1357702712390000645", "target": "@mariaressa", "target_detection_label": "unidentified-targets", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1760681291744522275", "target": "@yulia_navalnaya", "target_detection_label": "unidentified-targets", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1760806007972774056", "target": "@yulia_navalnaya", "target_detection_label": "unidentified-targets", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "866754959190228993", "target": "@theresa_may", "target_detection_label": "unidentified-targets", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1759956935367929909", "target": "@yulia_navalnaya", "target_detection_label": "unidentified-targets", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1761024632881058274", "target": "@yulia_navalnaya", "target_detection_label": "unidentified-targets", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1760733230133858662", "target": "@yulia_navalnaya", "target_detection_label": "unidentified-targets", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1485498884444995585", "target": "@mariaressa", "target_detection_label": "unidentified-targets", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1453560696407355399", "target": "@mariaressa", "target_detection_label": "unidentified-targets", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1761055978747789563", "target": "@yulia_navalnaya", "target_detection_label": "unidentified-targets", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1761336460987224434", "target": "@yulia_navalnaya", "target_detection_label": "unidentified-targets", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1760776850907845068", "target": "@yulia_navalnaya", "target_detection_label": "unidentified-targets", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1762803984803279243", "target": "@yulia_navalnaya", "target_detection_label": "unidentified-targets", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1555975001244844032", "target": "@VRSoloviev", "target_detection_label": "unidentified-targets", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1759936975304315012", "target": "@yulia_navalnaya", "target_detection_label": "unidentified-targets", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1574296890832785409", "target": "@trussliz", "target_detection_label": "unidentified-targets", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1759936834300203310", "target": "@yulia_navalnaya", "target_detection_label": "unidentified-targets", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1760741853425717728", "target": "@yulia_navalnaya", "target_detection_label": "unidentified-targets", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1446879594213216261", "target": "@mariaressa", "target_detection_label": "unidentified-targets", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1762793151343837584", "target": "@yulia_navalnaya", "target_detection_label": "unidentified-targets", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1761034143717015820", "target": "@yulia_navalnaya", "target_detection_label": "unidentified-targets", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1573499121150808064", "target": "@trussliz", "target_detection_label": "unidentified-targets", "abuse_ type_label": null, "evidence_spans": []}
+{"id": "1574414228345290752", "target": "@trussliz", "target_detection_label": "unidentified-targets", "abuse_ type_label": null, "evidence_spans": []}
