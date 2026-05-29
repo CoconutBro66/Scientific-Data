@@ -1,4 +1,4 @@
-# A Multilingual Dataset of Social Media Abuse Toward Named Public Figures with Layered Evidence
+# A multilingual dataset of social media abuse toward named public figures with layered evidence
 This is the official dataset for the paper **A Multilingual Dataset of Social Media Abuse Toward Named Public Figures with Layered Evidence**.
 
 
