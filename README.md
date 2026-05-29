@@ -43,7 +43,6 @@ Run each script from the corresponding directory after preparing the environment
 Example commands for the single-task baseline:
 
 ```bash
-cd 01_Single_Task
 python t1.py
 python t2.py
 python t3.py
@@ -52,7 +51,6 @@ python t3.py
 Example command for the shared-encoder multi-task baseline:
 
 ```bash
-cd "02_Shared-encoder multi-task"
 python MTL_Base.py
 ```
 
